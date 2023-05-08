@@ -8,5 +8,16 @@ I'm a student, and developer. I'm currently working on The Odin Project. I have 
 
 <h1 align='center'><i>Have Fun</i></h1>
 
-![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png "Header")My LinkedIn
 
+
+<!-- Actual text -->
+
+You can find me  on [![LinkedIn][2.2]][2].
+
+<!-- Icons -->
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+[2]: https://www.linkedin.com/in/yaw-owusu-snr/
