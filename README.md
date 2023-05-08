@@ -8,8 +8,4 @@ I'm a student, and developer. I'm currently working on The Odin Project. I have 
 
 #### My Latest:
 
-<!-- BLOG-POST-LIST:START -->
-- [Why Does A Meat Only Diet Cure So Many Things](https://stephenajulu.com/blog/why-does-a-meat-only-diet-cure-so-many-things/)
-- [How Polyunsaturated Fats&lpar;PUFAs&rpar; Promote and Increase Inflammation](https://stephenajulu.com/blog/how-polyunsaturated-fats-pufas-promote-and-increase-inflammation/)
-- [14 Powerful and Masculine Perfumes for THE MAN](https://stephenajulu.com/blog/14-powerful-and-masculine-perfumes-for-the-man/)
-<!-- BLOG-POST-LIST:END -->
+<h1 align='center'><i>Have Fun</i></h1>
