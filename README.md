@@ -1,6 +1,6 @@
   <!-- Hello there! Feel free to make this your own but kindly don't use my data. Attributions are welcomed & appreciated --> 
 
-# Hello, I'm Yaw!
+# Hello, I'm Yaw! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm a student, and developer. I'm currently working on The Odin Project. I have a passion for building, investing and writing things of which you can see below.
 
