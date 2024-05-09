@@ -12,6 +12,15 @@ I'm currently working on a backend CRUD API application with MongoDB, Node.js an
   </a>
 </p>
 
+###
+
+<h1 align="left">Stats🔥</h1>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Yawowususnr&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 
 <h1 align='center'><i>Have Fun</i></h1>
