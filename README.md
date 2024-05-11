@@ -8,7 +8,7 @@ I'm currently working on a backend CRUD API application with MongoDB, Node.js an
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,react,d3,express,flask,materialui,mongodb,ts,c" />
+    <img src="https://skillicons.dev/icons?i=js,html,react,d3,express,flask,materialui,mongodb,ts,c&perline=5" />
   </a>
 </p>
 
