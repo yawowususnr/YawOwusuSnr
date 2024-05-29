@@ -6,11 +6,7 @@ I'm a sophomore at Virginia Tech, and developer. I'm currently working on Full S
 
 I'm currently working on a backend CRUD API application with MongoDB, node.js and Express!
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,react,d3,express,flask,materialui,mongodb,ts,c&perline=5" />
-  </a>
-</p>
+
 
 ###
 
@@ -26,10 +22,18 @@ Others: <code>AWS</code> <code>JUnit</code> <code>Git</code> <code>Unix</code> <
 It's best to DM me on <a href="https://www.linkedin.com/in/yaw-owusu-snr/">LinkedIn</a>
 
 
-<h1 align="left">Stats🔥</h1>
-
+<h1 align="left">Stack🧱</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,react,d3,express,flask,materialui,mongodb,ts,c&perline=5" />
+  </a>
+</p>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Yawowususnr&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+<p align="right">
+  Inspiried by <a href="https://github.com/mirayatech" />Mirayatech</a>
+</p>
 
