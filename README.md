@@ -22,7 +22,7 @@ Others: <code>AWS</code> <code>JUnit</code> <code>Git</code> <code>Unix</code> <
 It's best to DM me on <a href="https://www.linkedin.com/in/yaw-owusu-snr/">LinkedIn</a>
 
 
-<h1 align="left">Stack🧱</h1>
+<h1 align="left">🧱Tech Stack</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,react,d3,express,flask,materialui,mongodb,ts,c&perline=5" />
