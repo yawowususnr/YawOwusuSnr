@@ -19,7 +19,7 @@ Others: <code>AWS</code> <code>JUnit</code> <code>Git</code> <code>Unix</code> <
 
 
 <h1 align="left">📫Contact</h1>
-It's best to DM me on <a href="https://www.linkedin.com/in/yaw-owusu-snr/">LinkedIn</a>
+It's best to DM me on <a href="https://www.linkedin.com/in/yaw-owusu-snr/">Linkedin</a>
 
 
 <h1 align="left">🧱Tech Stack</h1>
