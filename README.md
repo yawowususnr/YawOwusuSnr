@@ -10,7 +10,7 @@ I'm currently working on a backend CRUD API application with MongoDB, node.js an
 
 ###
 
-<h1 align="left">📦Toolbox</h1>
+<h1 align="left">📦 Toolbox</h1>
 Frontend Development: <code>React</code> <code>Vue</code> <code>Typescript</code> <code>Tailwind</code> <code>Material UI</code> <code>Framer-Motion</code> <br />
 <br />
 Backend Development: <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>Flask</code> <code>Python</code> <br />
@@ -18,11 +18,11 @@ Backend Development: <code>Node.js</code> <code>Express.js</code> <code>MongoDB<
 Others: <code>AWS</code> <code>JUnit</code> <code>Git</code> <code>Unix</code> <code>Bash Scripting</code> <br />
 
 
-<h1 align="left">📫Contact</h1>
+<h1 align="left">📫 Contact</h1>
 It's best to DM me on <a href="https://www.linkedin.com/in/yaw-owusu-snr/">Linkedin</a>
 
 
-<h1 align="left">🧱Tech Stack</h1>
+<h1 align="left">🧱 Tech Stack</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,react,d3,express,flask,materialui,mongodb,ts,c&perline=5" />
