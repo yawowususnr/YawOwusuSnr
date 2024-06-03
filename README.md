@@ -34,6 +34,6 @@ It's best to DM me on <a href="https://www.linkedin.com/in/yaw-owusu-snr/">Linke
 </div>
 
 <p align="right">
-  Inspiried by <a href="https://github.com/mirayatech" />Mirayatech</a>
+  Inspiried by <a href="https://github.com/mirayatech" />Mirayatech!</a>
 </p>
 
